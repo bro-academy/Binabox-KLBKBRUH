@@ -1,3 +1,3 @@
 # Binabox-KLBKBRUH
 **Student** Kyryl Kondratenko
-**Mentor** Andrey Gurylev
+**Mentor** Nikita Sadkovskyi
